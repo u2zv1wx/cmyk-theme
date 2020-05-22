@@ -3,8 +3,6 @@
 ;; Author: u2zv1wx <u2zv1wx@protonmail.ch>
 ;; Version: 0.1
 
-;; Copyright 2020 u2zv1wx
-
 ;;; Code:
 (deftheme cmyk)
 
