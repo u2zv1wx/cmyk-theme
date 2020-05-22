@@ -1,5 +1,7 @@
 #+TITLE: cmyk-theme
 
+An Emacs theme.
+
 * Installation
 #+BEGIN_SRC shell
 $ git clone https://github.com/u2zv1wx/cmyk-theme path/to/some/dir
