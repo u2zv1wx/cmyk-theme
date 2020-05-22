@@ -13,3 +13,6 @@ with the following =init.el=:
 (add-to-list 'custom-theme-load-path "~/.emacs.d/theme")
 (load-theme 'cmyk t)
 #+END_SRC
+
+* Screenshot
+[[screenshot.png]]
