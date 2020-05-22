@@ -8,7 +8,7 @@ $ git clone https://github.com/u2zv1wx/cmyk-theme path/to/some/dir
 $ mkdir -p ~/.emacs.d/theme
 $ ln -s path/to/some/dir/cmyk-theme.el ~/.emacs.d/theme/cmyk-theme/cmyk-theme.el
 #+END_SRC
-with the following =init.el=:
+with the following code in =init.el=:
 #+BEGIN_SRC elisp
 (add-to-list 'custom-theme-load-path "~/.emacs.d/theme")
 (load-theme 'cmyk t)
